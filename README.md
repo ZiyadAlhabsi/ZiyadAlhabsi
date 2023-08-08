@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZiyadAlhabsi
-- 👀 I’m interested in DBA and Data Analytics
+- 👀 I’m interested in DBMS and Data Analytics
 - 🌱 I’m currently learning SQL and Tableau
 - 📫 You can reach out to me via email: ziyadmacbook99@gmail.com
 
